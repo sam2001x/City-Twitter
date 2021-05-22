@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:key="share_app"
+        android:title="Share app" />
+    <Preference
+        android:key="rateApp"
+        android:title="Rate us" />
+    <Preference
+        android:key="feedback"
+        android:title="Send feedback" />
+
+</PreferenceScreen>

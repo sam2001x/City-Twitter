@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "692201728514",
+    "firebase_url": "https://scoopbook-67431.firebaseio.com",
+    "project_id": "scoopbook-67431",
+    "storage_bucket": "scoopbook-67431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692201728514:android:cf20e3a49e54731897151b",
+        "android_client_info": {
+          "package_name": "com.scoopbook.cityUpdate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692201728514-7ihjvktso29vci49gt8v6q5b4p39f6q1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD62G_hscibmj3E1rfSSzmvCClmCQ8lkr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692201728514-7ihjvktso29vci49gt8v6q5b4p39f6q1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
